@@ -1,0 +1,23 @@
+{
+  "name": "noneed",
+  "version": "0.0.1",
+  "description": "A fast and light-weight module and resource loader for use in production environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "module-loader",
+    "module",
+    "loader",
+    "requirejs",
+    "scriptjs",
+    "import",
+    "umd",
+    "amd",
+    "commonjs",
+    "commonjs2"
+  ],
+  "author": "Ben Ellis",
+  "license": "MIT"
+}
